@@ -2,16 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2020/01/15/hello-world/</loc>
+    <loc>http://yoursite.com/2020/02/19/vue%E7%9F%A5%E8%AF%86%E7%82%B9(%E4%B8%80%EF%BC%89%E2%80%94%E2%80%94%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E5%92%8C%E9%92%A9%E5%AD%90%E5%87%BD%E6%95%B0/</loc>
     
-    <lastmod>2020-02-01T04:00:27.714Z</lastmod>
+    <lastmod>2020-02-19T04:13:57.181Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/01/16/article-title/</loc>
+    <loc>http://yoursite.com/2020/02/19/vue%E7%9F%A5%E8%AF%86%E7%82%B9(%E4%BA%8C%EF%BC%89%E2%80%94%E2%80%94%20%E7%BB%84%E4%BB%B6%E9%80%9A%E4%BF%A1/</loc>
     
-    <lastmod>2020-02-01T02:32:02.698Z</lastmod>
+    <lastmod>2020-02-19T04:13:46.793Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/02/19/uniapp%E5%BC%80%E5%8F%91%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95/</loc>
+    
+    <lastmod>2020-02-19T04:13:34.202Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/02/19/js%E9%97%AD%E5%8C%85/</loc>
+    
+    <lastmod>2020-02-19T04:13:20.432Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/02/19/h5%20%E5%92%8C%20vue%20uni-app%E4%BD%BF%E7%94%A8echarts/</loc>
+    
+    <lastmod>2020-02-19T04:12:52.806Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/02/19/css,js%E5%AE%9E%E7%8E%B0%E8%B7%91%E9%A9%AC%E7%81%AF%E6%95%88%E6%9E%9C/</loc>
+    
+    <lastmod>2020-02-19T04:12:42.696Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/02/19/%E4%B8%80%E5%BC%A0%E5%9B%BE%E7%90%86%E8%A7%A3js%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE/</loc>
+    
+    <lastmod>2020-02-19T04:12:30.440Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/02/19/%E5%85%B3%E4%BA%8Ejs%E4%B8%AD%E7%9A%84parseInt(),Number(),toString()%E7%94%A8%E6%B3%95/</loc>
+    
+    <lastmod>2020-02-19T04:12:18.250Z</lastmod>
     
   </url>
   
@@ -33,13 +75,6 @@
     <loc>http://yoursite.com/link/index.html</loc>
     
     <lastmod>2020-02-01T02:15:29.972Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2020/01/15/My-First-Artical/</loc>
-    
-    <lastmod>2020-01-15T09:28:24.356Z</lastmod>
     
   </url>
   
